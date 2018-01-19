@@ -100,6 +100,7 @@ body{
 .table-boleto .logobanco {
     display: inline-block;
     max-width: 150px;
+	vertical-align: text-bottom;
 }
 
 .table-boleto .logocontainer {
@@ -108,7 +109,7 @@ body{
 }
 
 .table-boleto .logobanco img {
-    margin-bottom: -5px;
+
 }
 
 .table-boleto .codbanco {
